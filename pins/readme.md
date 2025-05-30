@@ -1,1 +1,1 @@
-Folder wit images for the Pins
+Folder with images for the Pins
